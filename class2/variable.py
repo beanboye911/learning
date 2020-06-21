@@ -2,3 +2,9 @@ a=1
 print(a)
 b=a+1
 print(b)
+aStr='1'
+print(aStr)
+bStr=aStr+'1'
+print(bStr)
+cStr=bStr+'abc'
+print(cStr)
