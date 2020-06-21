@@ -1,3 +1,3 @@
-num=input(int("type number")
+num=int(input("type number"))
 for i in range num:
   print(num)
